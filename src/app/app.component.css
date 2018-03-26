@@ -1,0 +1,27 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+#page-title{
+  text-align: center;
+}
+
+#search-component{
+  margin-top: 1em;
+}
+
+#no-results-alert, #error-alert, #warning-alert, #results-count-alert{
+  margin-top: 1em;
+  text-align: center;
+}
+
+#card {
+  margin: auto;
+}
+
+#card-title{
+  text-align: center;
+}
+
+#card-header, #card-content{
+  text-align: center;
+  margin-bottom: 1em;
+}
